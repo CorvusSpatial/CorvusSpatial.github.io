@@ -1,2 +1,2 @@
-# gitgub.io
+# github.io
 tutorial for GitHub Pages
